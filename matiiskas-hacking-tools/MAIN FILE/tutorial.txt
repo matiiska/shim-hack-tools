@@ -1,0 +1,109 @@
+
+1 ---
+
+open your chromebook, type in: "chrome://version" into the searchbar. (without quotation marks)
+
+2 --- TURBO IMPORTANT ---
+
+now check your subversion; mine is dedede. the subversion should be in the row starting with "OS". Yours can be something like: dedede, hayato, atlas, gladios etc... important is that you look for some kind of name. 
+
+3 ---
+
+open another pc. this can be a chromebook. 
+
+4 --- 
+
+insert your USB drive into the device you just opened.
+
+5 ---
+
+press the shortcut inside the "MAIN FILE" folder, or go to this link with the device: dl.osu.bio
+
+6 ---
+
+now, find the version name we talked about on STEP 2 from that website
+
+7 ---
+
+download the correct, corresponding file
+
+8 ---
+
+a download has started. open the .zip file you just downloaded. Re-name the .bin file inside the .zip folder to .img   -    DO NOT CHANGE THE NAME, ONLY THE ".bin" part of the name. you will be given a warning. hit "yes".
+
+9 --- 
+
+DON'T remove the usb stick yet, you need to go here: https://sh1mmer.me/buildlegacy
+
+10 ---
+
+scroll down the webpage, until you find two black boxes. hit "start" above them and find the .img file you have downloaded, and double click on it.
+
+11 ---
+
+wait for a download to start. this takes about 10-60 seconds. you've gotten a file named "injected_shim.bin". rename/reformat that file to .img, like we did on step 8. the file name should be "injected_shim.img" now.
+
+12 ---
+
+move the "injected_shim.img" file to the USB drive you have inserted into the device. I'll assume you know how to do that, as it's pretty simple
+
+13 ---
+
+go here: https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm
+
+14 --- 
+
+hit "add to ____" (blue button)
+
+15 ---
+
+on the top right corner, open the extension. I'll assume you know how to do that.
+
+16 ---
+
+hit "get started"
+
+17 ---
+
+now, it asks for your chromebook model. dont do that, instead hit the settings icon in the top right corner of the window. then hit "Use local image". Select the file we talked about on in STEP 11
+
+18 ---
+
+select your USB stick from the menu. if there are only two options - kingston and sandisk - use another device and repeat all the steps starting from STEP 3.
+
+19 --- 
+
+wait for the installation to finish
+
+20 ---
+
+remove your USB drive and shut down the PC you've been working on if you want.
+
+21 ---
+
+OPEN YOUR CHROMEBOOK
+
+22 ---
+
+press ESC+REFRESH+POWERBUTTON at the same time. recovery menu should pop up. use the arrow keys and enter key, as your mouse wont work.
+
+23 ---
+
+hit "Next"
+
+24 ---
+
+plug in your USB stick
+
+25 ---
+
+follow the steps forward, given by your chromebook.
+
+
+
+
+
+
+
+
+

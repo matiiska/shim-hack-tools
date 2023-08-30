@@ -1,0 +1,9 @@
+common errors are reported here, by me. dm me on discord: matiiska
+
+ - i only have "sandisk cruzer" and "kingston datatraveler" as options in the recovery utility. it's not recognizing shit!
+
+solution: use another device, or use an older version of the recovery utility (i don't know where to find one, google it)
+
+ - octopus.bin is corrupt!! wut doo???11??!!
+
+solution: https://dl.osu.bio/octopus.zip , im not sure if this will work, you can try another sources
